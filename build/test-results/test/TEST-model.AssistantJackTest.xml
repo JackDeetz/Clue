@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.AssistantJackTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-21T00:41:27" hostname="DEETZBASE" time="0.016">
+  <properties/>
+  <testcase name="testCheckAnswerSet1" classname="model.AssistantJackTest" time="0.015"/>
+  <testcase name="testCheckAnswerSet2" classname="model.AssistantJackTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

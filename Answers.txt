@@ -1,0 +1,11 @@
+With the Random guess algorithm
+ - There's really no elimanation of possibilities as each answer set is checked.
+ - This system really takes a long time and is inefficinet, and would get worse and worse with greater numbers of possibilities
+ - With this system it would regularly take hundreds of answer checks
+
+With Jack's algorithm
+- The combination was set initially to 0,10,0 (for weapon, location, murder)
+- with each return from assistantJack of 'a' wrong answer, that variable in incrimented, except for location which would be decrimented
+- With each check, one combination is eliminated, and one variable possibility is removed from the pool (heavily eliminating possibilities)
+_ This system would regularly find the answer to all 3 answer sets with around 13 answer checks.
+- (Though 1 in 50 checks with the 'random' answer set would take around 22 answer checks.)

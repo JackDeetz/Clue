@@ -1,0 +1,14 @@
+model/package-info.java
+ model.package-info
+model/AssistantJack.java
+ model.AssistantJack
+model/TheoryItem.java
+ model.TheoryItem
+edu/miracosta/cs113/RandomClue.java
+ edu.miracosta.cs113.RandomClue
+edu/miracosta/cs113/package-info.java
+ edu.miracosta.cs113.package-info
+model/Theory.java
+ model.Theory
+edu/miracosta/cs113/JacksAlgorithm.java
+ edu.miracosta.cs113.JacksAlgorithm
