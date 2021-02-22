@@ -1,4 +1,4 @@
-package edu.miracosta.cs113;
+package edu.miracosta.cs113.Homework2;
 
 /**
  * RandomClue.java : Your job is to ask your AssistantJack and get the correct

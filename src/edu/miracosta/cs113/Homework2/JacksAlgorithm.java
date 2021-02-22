@@ -1,4 +1,4 @@
-package edu.miracosta.cs113;
+package edu.miracosta.cs113.Homework2;
 
 import java.util.Random;
 import java.util.Scanner;

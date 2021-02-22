@@ -7,4 +7,4 @@
  * @version 1.0
  */
 
-package edu.miracosta.cs113;
+package edu.miracosta.cs113.Homework2;
